@@ -11,3 +11,8 @@ In this datathon, bank company shared their tech-talent dataset that scraped fro
 - XBGClassifier
 - Swifter
 - Random Forest
+
+## Scores
+- **Stacked Ensemle**: **Private: 0.79571, Public: 0.80338**
+- **LGBM**: **Private: 0.70051, Public: 0.69458**
+- **Leader Board**: **Private LB #29** - **Public LB #14**
