@@ -1,6 +1,9 @@
 # Datathon-BBVA
 In this datathon, bank company shared their tech-talent dataset that scraped from linkedin for predicting  whether people changed jobs in 2019. For this challenge, 6 different csv data used. Preprocessing and feature engineering was challenging for me. 
 
+Competition Link: [Kaggle](https://www.kaggle.com/competitions/garanti-bbva-data-camp)
+
+
 ## Tech and Libraries
 
 - Pandas
